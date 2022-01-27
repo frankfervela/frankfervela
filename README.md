@@ -1,5 +1,7 @@
-### Hi there 👋
-<a href="https://app.daily.dev/frankfervela"><img src="https://github.com/frankfervela/frankfervela/blob/main/devcard.svg" width="400" alt="Frank Fernandez's Dev Card"/></a>
+### Welcome to my humble abode 👋
+Hi everyone, my name is Frank Fernandez, actor/programmer with a passion for automating and creating awesome stuff.
+
+<a href="https://app.daily.dev/frankfervela"><img src="https://github.com/frankfervela/frankfervela/blob/main/devcard.svg" width="300" alt="Frank Fernandez's Dev Card"/></a>
 <!--
 **frankfervela/frankfervela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
