@@ -1,7 +1,7 @@
 ### Welcome to my humble abode 👋
 Hi everyone, my name is Frank Fernandez, actor/programmer with a passion for automating and creating awesome stuff.
 
-<script src="https://tryhackme.com/badge/97459"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/fraken.png" alt="TryHackMe">
 
 <a href="https://app.daily.dev/frankfervela"><img src="https://github.com/frankfervela/frankfervela/blob/main/devcard.svg" width="300" alt="Frank Fernandez's Dev Card"/></a>
 <!--
